@@ -6,7 +6,3 @@ spring:
     username: root
     password: Gyb285458125
     url: jdbc:mysql://db:3306/springCloud_order?characterEncoding=utf-8&useSSL=false
-eureka:
-  client:
-    service-url:
-    defaultZone: http://localhost:8761/eureka/
